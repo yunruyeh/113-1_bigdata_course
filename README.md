@@ -1,6 +1,6 @@
 # 113-1_bigdata_course
 
-This is our project in big data class. (And all the details are in the PDF files below.)
+This is our project in big data class. (And more details are in the PDF files below.)
 
 # Part 1 :
 ## Diabetes Management and AI in Insulin Delivery Systems

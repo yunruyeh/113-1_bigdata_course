@@ -6,7 +6,8 @@ This is our project in big data class. (And more details are in the PDF files be
 ## Diabetes Management and AI in Insulin Delivery Systems
 Authors: Yun Ju Yeh and Beatrice Pasini
 
-This phase focused on loading, inspecting, and preparing raw datasets related to glycemia levels and treatments (insulin doses and carbohydrate intake). The team conducted the following key steps:
+This phase focused on loading, inspecting, and preparing raw datasets related to glycemia levels and treatments (insulin doses and carbohydrate intake). 
+Our team conducted the following key steps:
 
 Data Standardization: Timestamps in both CSV and Excel files were standardized to datetime objects for alignment.
 
@@ -28,7 +29,8 @@ Initial Findings: Clear correlations were observed—especially the influence of
 ## Enhancing AI Analytics in Health Care through Data Quality
 Authors: Yun Ju Yeh and Beatrice Pasini
 
-This stage focused on data cleaning, transformation, and feature engineering to prepare high-quality data for AI-driven health analytics. Key contributions include:
+This stage focused on data cleaning, transformation, and feature engineering to prepare high-quality data for AI-driven health analytics. 
+Key contributions include:
 
 Advanced Data Processing: Parsed and cleaned timestamps; dropped missing and invalid values; merged datasets using merge_asof for precise temporal alignment.
 
@@ -49,7 +51,8 @@ Final Validation: Ensured the final dataset was complete, logically consistent, 
 ## Regression Analysis in AI for Insulin Infusion
 Authors: Yun Ju Yeh and Beatrice Pasini
 
-This final phase of the project focused on applying and comparing different regression models to predict insulin dosage based on carbohydrate intake and blood glucose (SGV) levels. Key steps and findings include:
+This final phase of the project focused on applying and comparing different regression models to predict insulin dosage based on carbohydrate intake and blood glucose (SGV) levels. 
+Key steps and findings include:
 
 ### 1. Data Preparation
 Dataset: training_tbl_5min_test3.csv was loaded using pandas.
